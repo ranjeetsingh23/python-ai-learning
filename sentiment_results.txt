@@ -1,0 +1,5 @@
+Text,Sentiment,Confidence
+"I love using AI tools, they make my work easier!",POSITIVE,1.0
+The new software update is terrible and frustrating.,NEGATIVE,1.0
+The product is okay.,POSITIVE,1.0
+it was a productive day.,POSITIVE,1.0

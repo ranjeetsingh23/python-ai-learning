@@ -1,0 +1,401 @@
+ID,conversation,summary,sentiment
+1,"Customer: I love the packaging of the product.
+Agent: Thank you! We’re glad you liked it.
+Customer: Makes unboxing fun.
+Agent: That’s our goal!",Customer: I love the packaging of the product. Agent: Thank you! We’re glad you liked it. Customer: Makes unboxing fun.,Very Positive 🤩
+2,"Customer: I need help tracking my package.
+Agent: Sure! Can you provide the order ID?
+Customer: Yes, it’s 12345.
+Agent: Your package will arrive tomorrow.","Customer: I need help tracking my package. Agent: Sure! Can you provide the order ID?Customer: Yes, it's 12345.Agent: Your package will arrive tomorrow.",Very Negative 😡
+3,"Customer: The package I received was missing items.
+Agent: Apologies. I will send the missing items immediately.
+Customer: Thank you, I was worried.
+Agent: You should receive them in 3 days.","Customer: The package I received was missing items. Agent: Apologies. I will send the missing items immediately. Customer: Thank you, I was worried.",Very Negative 😡
+4,"Customer: I got the wrong size for my order.
+Agent: Apologies. We can replace it with the correct size.
+Customer: Great, thank you.
+Agent: The correct size will be sent today.","Customer: I got the wrong size for my order. Agent: We can replace it with the correct size. Customer: Great, thank you.",Very Negative 😡
+5,"Customer: The product quality was not what I expected.
+Agent: Sorry for the disappointment. We can offer a replacement or refund.
+Customer: I’ll go with the replacement.
+Agent: It will be sent out today.",Customer: The product quality was not what I expected. Agent: Sorry for the disappointment. We can offer a replacement or refund. Customer: I'll go with the replacement.,Very Negative 😡
+6,"Customer: I need to cancel my subscription.
+Agent: Sure, I can do that for you.
+Customer: Thank you.
+Agent: Your subscription is now canceled.","Customer: I need to cancel my subscription. Agent: Sure, I can do that for you. Customer: Thank you.Agent: Your subscription is now canceled.",Very Negative 😡
+7,"Customer: The app keeps logging me out.
+Agent: Sorry for the trouble. Try clearing cache and re-login.
+Customer: That worked, thanks!
+Agent: Glad it helped!","Customer: The app keeps logging me out. Try clearing cache and re-login. Customer: That worked, thanks!",Very Negative 😡
+8,"Customer: The product color doesn’t match the image online.
+Agent: Sorry about that. We can send a replacement.
+Customer: That would be helpful, thanks.
+Agent: Replacement will be shipped today.",Agent: Sorry about that. We can send a replacement. Customer: The product color doesn't match the image online. Agent: Replacement will be shipped today.,Very Negative 😡
+9,"Customer: I need help tracking my package.
+Agent: Sure! Can you provide the order ID?
+Customer: Yes, it’s 12345.
+Agent: Your package will arrive tomorrow.","Customer: I need help tracking my package. Agent: Sure! Can you provide the order ID?Customer: Yes, it's 12345.Agent: Your package will arrive tomorrow.",Very Negative 😡
+10,"Customer: I got the wrong size for my order.
+Agent: Apologies. We can replace it with the correct size.
+Customer: Great, thank you.
+Agent: The correct size will be sent today.","Customer: I got the wrong size for my order. Agent: We can replace it with the correct size. Customer: Great, thank you.",Very Negative 😡
+11,"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Negative 😡
+12,"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+13,"Customer: I need to cancel my subscription.
+Agent: Sure, I can do that for you.
+Customer: Thank you.
+Agent: Your subscription is now canceled.","Customer: I need to cancel my subscription. Agent: Sure, I can do that for you. Customer: Thank you.Agent: Your subscription is now canceled.",Very Negative 😡
+14,"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Negative 😡
+15,"Customer: The product color doesn’t match the image online.
+Agent: Sorry about that. We can send a replacement.
+Customer: That would be helpful, thanks.
+Agent: Replacement will be shipped today.",Agent: Sorry about that. We can send a replacement. Customer: The product color doesn't match the image online. Agent: Replacement will be shipped today.,Very Negative 😡
+16,"Customer: I got the wrong size for my order.
+Agent: Apologies. We can replace it with the correct size.
+Customer: Great, thank you.
+Agent: The correct size will be sent today.","Customer: I got the wrong size for my order. Agent: We can replace it with the correct size. Customer: Great, thank you.",Very Negative 😡
+17,"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. Agent: The refund has been processed today and should reflect in your account within 2-3 business days.,Very Negative 😡
+18,"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. Agent: The refund has been processed today and should reflect in your account within 2-3 business days.,Very Negative 😡
+19,"Customer: I am frustrated because my order is incomplete.
+Agent: I’m sorry about that. I will arrange the missing items to be sent immediately.
+Customer: Thank you, that solves it.
+Agent: You’re welcome!",Customer: I am frustrated because my order is incomplete. Agent: I’m sorry about that. I will arrange the missing items to be sent immediately.,Neutral 😐
+20,"Customer: I need help tracking my package.
+Agent: Sure! Can you provide the order ID?
+Customer: Yes, it’s 12345.
+Agent: Your package will arrive tomorrow.","Customer: I need help tracking my package. Agent: Sure! Can you provide the order ID?Customer: Yes, it's 12345.Agent: Your package will arrive tomorrow.",Very Negative 😡
+21,"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+22,"Customer: I am frustrated because my order is incomplete.
+Agent: I’m sorry about that. I will arrange the missing items to be sent immediately.
+Customer: Thank you, that solves it.
+Agent: You’re welcome!",Customer: I am frustrated because my order is incomplete. Agent: I’m sorry about that. I will arrange the missing items to be sent immediately.,Neutral 😐
+23,"Customer: I need help tracking my package.
+Agent: Sure! Can you provide the order ID?
+Customer: Yes, it’s 12345.
+Agent: Your package will arrive tomorrow.","Customer: I need help tracking my package. Agent: Sure! Can you provide the order ID?Customer: Yes, it's 12345.Agent: Your package will arrive tomorrow.",Very Negative 😡
+24,"Customer: I’m very happy with the product quality!
+Agent: That’s wonderful to hear!
+Customer: It exceeded my expectations.
+Agent: We’re glad you enjoyed it!",Customer: It exceeded my expectations. Customer: I’m very happy with the product quality. Agent: That’s wonderful to hear!,Very Positive 🤩
+25,"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Negative 😡
+26,"Customer: The delivery was late again!
+Agent: I apologize. We are expediting it, and it should arrive tomorrow.
+Customer: Okay, thanks for fixing it quickly.
+Agent: You’re welcome!","Customer: The delivery was late again!Agent: I apologize. We are expediting it, and it should arrive tomorrow.Customer: Okay, thanks for fixing it quickly.",Positive 🙂
+27,"Customer: Your website is slow.
+Agent: Sorry for the inconvenience. We’re optimizing performance.
+Customer: Hope it improves soon.
+Agent: It will, thank you for your patience.","Agent: Sorry for the inconvenience. We’re optimizing performance. Customer: Hope it improves soon.Agent: It will, thank you for your patience.",Negative 😕
+28,"Customer: I want to upgrade my plan.
+Agent: I can help with that. Which plan would you like?
+Customer: The premium plan.
+Agent: Done! You have been upgraded.",Customer: I want to upgrade my plan.Agent: I can help with that. Which plan would you like?Customer: The premium plan.,Neutral 😐
+29,"Customer: I can’t log into my account. Keeps saying invalid password.
+Agent: Let’s reset your password. I’ll send the link to your email.
+Customer: Got it. Thanks!
+Agent: You should be able to log in now.",Customer: I can’t log into my account. Keeps saying invalid password. Agent: Let’s reset your password. I’ll send the link to your email.,Very Negative 😡
+30,"Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!",Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback. Customer: The app feels much smoother now.,Very Positive 🤩
+31,"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+32,"Customer: The product color doesn’t match the image online.
+Agent: Sorry about that. We can send a replacement.
+Customer: That would be helpful, thanks.
+Agent: Replacement will be shipped today.",Agent: Sorry about that. We can send a replacement. Customer: The product color doesn't match the image online. Agent: Replacement will be shipped today.,Very Negative 😡
+33,"Customer: The product quality was not what I expected.
+Agent: Sorry for the disappointment. We can offer a replacement or refund.
+Customer: I’ll go with the replacement.
+Agent: It will be sent out today.",Customer: The product quality was not what I expected. Agent: Sorry for the disappointment. We can offer a replacement or refund. Customer: I'll go with the replacement.,Very Negative 😡
+34,"Customer: The delivery was late again!
+Agent: I apologize. We are expediting it, and it should arrive tomorrow.
+Customer: Okay, thanks for fixing it quickly.
+Agent: You’re welcome!","Customer: The delivery was late again!Agent: I apologize. We are expediting it, and it should arrive tomorrow.Customer: Okay, thanks for fixing it quickly.",Positive 🙂
+35,"Customer: Your website is slow.
+Agent: Sorry for the inconvenience. We’re optimizing performance.
+Customer: Hope it improves soon.
+Agent: It will, thank you for your patience.","Agent: Sorry for the inconvenience. We’re optimizing performance. Customer: Hope it improves soon.Agent: It will, thank you for your patience.",Negative 😕
+36,"Customer: I need help tracking my package.
+Agent: Sure! Can you provide the order ID?
+Customer: Yes, it’s 12345.
+Agent: Your package will arrive tomorrow.","Customer: I need help tracking my package. Agent: Sure! Can you provide the order ID?Customer: Yes, it's 12345.Agent: Your package will arrive tomorrow.",Very Negative 😡
+37,"Customer: The product color doesn’t match the image online.
+Agent: Sorry about that. We can send a replacement.
+Customer: That would be helpful, thanks.
+Agent: Replacement will be shipped today.",Agent: Sorry about that. We can send a replacement. Customer: The product color doesn't match the image online. Agent: Replacement will be shipped today.,Very Negative 😡
+38,"Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!",Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback. Customer: The app feels much smoother now.,Very Positive 🤩
+39,"Customer: I’m very happy with the product quality!
+Agent: That’s wonderful to hear!
+Customer: It exceeded my expectations.
+Agent: We’re glad you enjoyed it!",Customer: It exceeded my expectations. Customer: I’m very happy with the product quality. Agent: That’s wonderful to hear!,Very Positive 🤩
+40,"Customer: Your website is slow.
+Agent: Sorry for the inconvenience. We’re optimizing performance.
+Customer: Hope it improves soon.
+Agent: It will, thank you for your patience.","Agent: Sorry for the inconvenience. We’re optimizing performance. Customer: Hope it improves soon.Agent: It will, thank you for your patience.",Negative 😕
+41,"Customer: I can’t log into my account. Keeps saying invalid password.
+Agent: Let’s reset your password. I’ll send the link to your email.
+Customer: Got it. Thanks!
+Agent: You should be able to log in now.",Customer: I can’t log into my account. Keeps saying invalid password. Agent: Let’s reset your password. I’ll send the link to your email.,Very Negative 😡
+42,"Customer: I need to cancel my subscription.
+Agent: Sure, I can do that for you.
+Customer: Thank you.
+Agent: Your subscription is now canceled.","Customer: I need to cancel my subscription. Agent: Sure, I can do that for you. Customer: Thank you.Agent: Your subscription is now canceled.",Very Negative 😡
+43,"Customer: The tracking number doesn’t work.
+Agent: Apologies. I’ll provide the correct tracking number.
+Customer: Got it. Thanks.
+Agent: You’re welcome!",Customer: The tracking number doesn't work. Agent: Apologies. I’ll provide the correct tracking number. Customer: Got it. Thanks.,Very Negative 😡
+44,"Customer: The product color doesn’t match the image online.
+Agent: Sorry about that. We can send a replacement.
+Customer: That would be helpful, thanks.
+Agent: Replacement will be shipped today.",Agent: Sorry about that. We can send a replacement. Customer: The product color doesn't match the image online. Agent: Replacement will be shipped today.,Very Negative 😡
+45,"Customer: Customer support took too long to respond.
+Agent: Sorry for the delay. We will make sure this doesn’t happen again.
+Customer: Okay, thanks for acknowledging.
+Agent: We appreciate your patience.",Customer: Customer support took too long to respond. Agent: Sorry for the delay. We will make sure this doesn't happen again.,Neutral 😐
+46,"Customer: The product color doesn’t match the image online.
+Agent: Sorry about that. We can send a replacement.
+Customer: That would be helpful, thanks.
+Agent: Replacement will be shipped today.",Agent: Sorry about that. We can send a replacement. Customer: The product color doesn't match the image online. Agent: Replacement will be shipped today.,Very Negative 😡
+47,"Customer: I received the wrong address confirmation.
+Agent: Sorry, we’ll correct it immediately.
+Customer: Thanks.
+Agent: Corrected and confirmation sent.","Agent: Sorry, we’ll correct it immediately. Customer: I received the wrong address confirmation. Agent: Corrected and confirmation sent.",Very Negative 😡
+48,"Customer: The delivery was late again!
+Agent: I apologize. We are expediting it, and it should arrive tomorrow.
+Customer: Okay, thanks for fixing it quickly.
+Agent: You’re welcome!","Customer: The delivery was late again!Agent: I apologize. We are expediting it, and it should arrive tomorrow.Customer: Okay, thanks for fixing it quickly.",Positive 🙂
+49,"Customer: I’m very happy with the product quality!
+Agent: That’s wonderful to hear!
+Customer: It exceeded my expectations.
+Agent: We’re glad you enjoyed it!",Customer: It exceeded my expectations. Customer: I’m very happy with the product quality. Agent: That’s wonderful to hear!,Very Positive 🤩
+50,"Customer: Customer support took too long to respond.
+Agent: Sorry for the delay. We will make sure this doesn’t happen again.
+Customer: Okay, thanks for acknowledging.
+Agent: We appreciate your patience.",Customer: Customer support took too long to respond. Agent: Sorry for the delay. We will make sure this doesn't happen again.,Neutral 😐
+51,"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Negative 😡
+52,"Customer: I had a great experience with the support agent.
+Agent: Thank you! We’re happy to help.
+Customer: Made my day easier.
+Agent: That’s our goal!",Customer: I had a great experience with the support agent.Agent: Thank you! We’re happy to help.,Very Positive 🤩
+53,"Customer: I want to upgrade my plan.
+Agent: I can help with that. Which plan would you like?
+Customer: The premium plan.
+Agent: Done! You have been upgraded.",Customer: I want to upgrade my plan.Agent: I can help with that. Which plan would you like?Customer: The premium plan.,Neutral 😐
+54,"Customer: I can’t log into my account. Keeps saying invalid password.
+Agent: Let’s reset your password. I’ll send the link to your email.
+Customer: Got it. Thanks!
+Agent: You should be able to log in now.",Customer: I can’t log into my account. Keeps saying invalid password. Agent: Let’s reset your password. I’ll send the link to your email.,Very Negative 😡
+55,"Customer: I got the wrong size for my order.
+Agent: Apologies. We can replace it with the correct size.
+Customer: Great, thank you.
+Agent: The correct size will be sent today.","Customer: I got the wrong size for my order. Agent: We can replace it with the correct size. Customer: Great, thank you.",Very Negative 😡
+56,"Customer: The delivery was late again!
+Agent: I apologize. We are expediting it, and it should arrive tomorrow.
+Customer: Okay, thanks for fixing it quickly.
+Agent: You’re welcome!","Customer: The delivery was late again!Agent: I apologize. We are expediting it, and it should arrive tomorrow.Customer: Okay, thanks for fixing it quickly.",Positive 🙂
+57,"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+58,"Customer: I want to upgrade my plan.
+Agent: I can help with that. Which plan would you like?
+Customer: The premium plan.
+Agent: Done! You have been upgraded.",Customer: I want to upgrade my plan.Agent: I can help with that. Which plan would you like?Customer: The premium plan.,Neutral 😐
+59,"Customer: I want to upgrade my plan.
+Agent: I can help with that. Which plan would you like?
+Customer: The premium plan.
+Agent: Done! You have been upgraded.",Customer: I want to upgrade my plan.Agent: I can help with that. Which plan would you like?Customer: The premium plan.,Neutral 😐
+60,"Customer: I want to upgrade my plan.
+Agent: I can help with that. Which plan would you like?
+Customer: The premium plan.
+Agent: Done! You have been upgraded.",Customer: I want to upgrade my plan.Agent: I can help with that. Which plan would you like?Customer: The premium plan.,Neutral 😐
+61,"Customer: Your website is slow.
+Agent: Sorry for the inconvenience. We’re optimizing performance.
+Customer: Hope it improves soon.
+Agent: It will, thank you for your patience.","Agent: Sorry for the inconvenience. We’re optimizing performance. Customer: Hope it improves soon.Agent: It will, thank you for your patience.",Negative 😕
+62,"Customer: The tracking number doesn’t work.
+Agent: Apologies. I’ll provide the correct tracking number.
+Customer: Got it. Thanks.
+Agent: You’re welcome!",Customer: The tracking number doesn't work. Agent: Apologies. I’ll provide the correct tracking number. Customer: Got it. Thanks.,Very Negative 😡
+63,"Customer: Your website is slow.
+Agent: Sorry for the inconvenience. We’re optimizing performance.
+Customer: Hope it improves soon.
+Agent: It will, thank you for your patience.","Agent: Sorry for the inconvenience. We’re optimizing performance. Customer: Hope it improves soon.Agent: It will, thank you for your patience.",Negative 😕
+64,"Customer: I had trouble with billing. I was charged twice.
+Agent: I apologize for the error. I’ve initiated a refund for the extra charge.
+Customer: Thank you, I appreciate your help.
+Agent: The refund will reflect in a few business days.",Customer: I had trouble with billing. I was charged twice. Agent: I apologize for the error. I’ve initiated a refund for the extra charge.,Very Negative 😡
+65,"Customer: I need to cancel my subscription.
+Agent: Sure, I can do that for you.
+Customer: Thank you.
+Agent: Your subscription is now canceled.","Customer: I need to cancel my subscription. Agent: Sure, I can do that for you. Customer: Thank you.Agent: Your subscription is now canceled.",Very Negative 😡
+66,"Customer: I am frustrated because my order is incomplete.
+Agent: I’m sorry about that. I will arrange the missing items to be sent immediately.
+Customer: Thank you, that solves it.
+Agent: You’re welcome!",Customer: I am frustrated because my order is incomplete. Agent: I’m sorry about that. I will arrange the missing items to be sent immediately.,Neutral 😐
+67,"Customer: The app keeps logging me out.
+Agent: Sorry for the trouble. Try clearing cache and re-login.
+Customer: That worked, thanks!
+Agent: Glad it helped!","Customer: The app keeps logging me out. Try clearing cache and re-login. Customer: That worked, thanks!",Very Negative 😡
+68,"Customer: I had a great experience with the support agent.
+Agent: Thank you! We’re happy to help.
+Customer: Made my day easier.
+Agent: That’s our goal!",Customer: I had a great experience with the support agent.Agent: Thank you! We’re happy to help.,Very Positive 🤩
+69,"Customer: Customer support took too long to respond.
+Agent: Sorry for the delay. We will make sure this doesn’t happen again.
+Customer: Okay, thanks for acknowledging.
+Agent: We appreciate your patience.",Customer: Customer support took too long to respond. Agent: Sorry for the delay. We will make sure this doesn't happen again.,Neutral 😐
+70,"Customer: I need help tracking my package.
+Agent: Sure! Can you provide the order ID?
+Customer: Yes, it’s 12345.
+Agent: Your package will arrive tomorrow.","Customer: I need help tracking my package. Agent: Sure! Can you provide the order ID?Customer: Yes, it's 12345.Agent: Your package will arrive tomorrow.",Very Negative 😡
+71,"Customer: I had trouble with billing. I was charged twice.
+Agent: I apologize for the error. I’ve initiated a refund for the extra charge.
+Customer: Thank you, I appreciate your help.
+Agent: The refund will reflect in a few business days.",Customer: I had trouble with billing. I was charged twice. Agent: I apologize for the error. I’ve initiated a refund for the extra charge.,Very Negative 😡
+72,"Customer: I love the packaging of the product.
+Agent: Thank you! We’re glad you liked it.
+Customer: Makes unboxing fun.
+Agent: That’s our goal!",Customer: I love the packaging of the product. Agent: Thank you! We’re glad you liked it. Customer: Makes unboxing fun.,Very Positive 🤩
+73,"Customer: I can’t log into my account. Keeps saying invalid password.
+Agent: Let’s reset your password. I’ll send the link to your email.
+Customer: Got it. Thanks!
+Agent: You should be able to log in now.",Customer: I can’t log into my account. Keeps saying invalid password. Agent: Let’s reset your password. I’ll send the link to your email.,Very Negative 😡
+74,"Customer: I love the packaging of the product.
+Agent: Thank you! We’re glad you liked it.
+Customer: Makes unboxing fun.
+Agent: That’s our goal!",Customer: I love the packaging of the product. Agent: Thank you! We’re glad you liked it. Customer: Makes unboxing fun.,Very Positive 🤩
+75,"Customer: I love the quick response from your support team.
+Agent: Thank you! We strive to resolve issues promptly.
+Customer: Makes me trust your company more.
+Agent: We’re glad to hear that!",Customer: I love the quick response from your support team. We strive to resolve issues promptly. Agent: We’re glad to hear that!,Very Positive 🤩
+76,"Customer: I had a great experience with the support agent.
+Agent: Thank you! We’re happy to help.
+Customer: Made my day easier.
+Agent: That’s our goal!",Customer: I had a great experience with the support agent.Agent: Thank you! We’re happy to help.,Very Positive 🤩
+77,"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Negative 😡
+78,"Customer: I need to cancel my subscription.
+Agent: Sure, I can do that for you.
+Customer: Thank you.
+Agent: Your subscription is now canceled.","Customer: I need to cancel my subscription. Agent: Sure, I can do that for you. Customer: Thank you.Agent: Your subscription is now canceled.",Very Negative 😡
+79,"Customer: I can’t log into my account. Keeps saying invalid password.
+Agent: Let’s reset your password. I’ll send the link to your email.
+Customer: Got it. Thanks!
+Agent: You should be able to log in now.",Customer: I can’t log into my account. Keeps saying invalid password. Agent: Let’s reset your password. I’ll send the link to your email.,Very Negative 😡
+80,"Customer: I’m very happy with the product quality!
+Agent: That’s wonderful to hear!
+Customer: It exceeded my expectations.
+Agent: We’re glad you enjoyed it!",Customer: It exceeded my expectations. Customer: I’m very happy with the product quality. Agent: That’s wonderful to hear!,Very Positive 🤩
+81,"Customer: I want to upgrade my plan.
+Agent: I can help with that. Which plan would you like?
+Customer: The premium plan.
+Agent: Done! You have been upgraded.",Customer: I want to upgrade my plan.Agent: I can help with that. Which plan would you like?Customer: The premium plan.,Neutral 😐
+82,"Customer: The tracking number doesn’t work.
+Agent: Apologies. I’ll provide the correct tracking number.
+Customer: Got it. Thanks.
+Agent: You’re welcome!",Customer: The tracking number doesn't work. Agent: Apologies. I’ll provide the correct tracking number. Customer: Got it. Thanks.,Very Negative 😡
+83,"Customer: The product quality was not what I expected.
+Agent: Sorry for the disappointment. We can offer a replacement or refund.
+Customer: I’ll go with the replacement.
+Agent: It will be sent out today.",Customer: The product quality was not what I expected. Agent: Sorry for the disappointment. We can offer a replacement or refund. Customer: I'll go with the replacement.,Very Negative 😡
+84,"Customer: The package I received was missing items.
+Agent: Apologies. I will send the missing items immediately.
+Customer: Thank you, I was worried.
+Agent: You should receive them in 3 days.","Customer: The package I received was missing items. Agent: Apologies. I will send the missing items immediately. Customer: Thank you, I was worried.",Very Negative 😡
+85,"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. Agent: The refund has been processed today and should reflect in your account within 2-3 business days.,Very Negative 😡
+86,"Customer: The product color doesn’t match the image online.
+Agent: Sorry about that. We can send a replacement.
+Customer: That would be helpful, thanks.
+Agent: Replacement will be shipped today.",Agent: Sorry about that. We can send a replacement. Customer: The product color doesn't match the image online. Agent: Replacement will be shipped today.,Very Negative 😡
+87,"Customer: Your website is slow.
+Agent: Sorry for the inconvenience. We’re optimizing performance.
+Customer: Hope it improves soon.
+Agent: It will, thank you for your patience.","Agent: Sorry for the inconvenience. We’re optimizing performance. Customer: Hope it improves soon.Agent: It will, thank you for your patience.",Negative 😕
+88,"Customer: I need to cancel my subscription.
+Agent: Sure, I can do that for you.
+Customer: Thank you.
+Agent: Your subscription is now canceled.","Customer: I need to cancel my subscription. Agent: Sure, I can do that for you. Customer: Thank you.Agent: Your subscription is now canceled.",Very Negative 😡
+89,"Customer: The agent was rude.
+Agent: We apologize. This is not our standard. Can I assist you further?
+Customer: Thank you.
+Agent: We’ll make sure it doesn’t happen again.",Agent: We apologize. This is not our standard. Can I assist you further?Customer: Thank you. Agent: We’ll make sure it doesn’t happen again.,Very Negative 😡
+90,"Customer: I had a great experience with the support agent.
+Agent: Thank you! We’re happy to help.
+Customer: Made my day easier.
+Agent: That’s our goal!",Customer: I had a great experience with the support agent.Agent: Thank you! We’re happy to help.,Very Positive 🤩
+91,"Customer: I had a great experience with the support agent.
+Agent: Thank you! We’re happy to help.
+Customer: Made my day easier.
+Agent: That’s our goal!",Customer: I had a great experience with the support agent.Agent: Thank you! We’re happy to help.,Very Positive 🤩
+92,"Customer: The tracking number doesn’t work.
+Agent: Apologies. I’ll provide the correct tracking number.
+Customer: Got it. Thanks.
+Agent: You’re welcome!",Customer: The tracking number doesn't work. Agent: Apologies. I’ll provide the correct tracking number. Customer: Got it. Thanks.,Very Negative 😡
+93,"Customer: I had trouble with billing. I was charged twice.
+Agent: I apologize for the error. I’ve initiated a refund for the extra charge.
+Customer: Thank you, I appreciate your help.
+Agent: The refund will reflect in a few business days.",Customer: I had trouble with billing. I was charged twice. Agent: I apologize for the error. I’ve initiated a refund for the extra charge.,Very Negative 😡
+94,"Customer: Your website is slow.
+Agent: Sorry for the inconvenience. We’re optimizing performance.
+Customer: Hope it improves soon.
+Agent: It will, thank you for your patience.","Agent: Sorry for the inconvenience. We’re optimizing performance. Customer: Hope it improves soon.Agent: It will, thank you for your patience.",Negative 😕
+95,"Customer: I love the packaging of the product.
+Agent: Thank you! We’re glad you liked it.
+Customer: Makes unboxing fun.
+Agent: That’s our goal!",Customer: I love the packaging of the product. Agent: Thank you! We’re glad you liked it. Customer: Makes unboxing fun.,Very Positive 🤩
+96,"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+97,"Customer: I’m very happy with the product quality!
+Agent: That’s wonderful to hear!
+Customer: It exceeded my expectations.
+Agent: We’re glad you enjoyed it!",Customer: It exceeded my expectations. Customer: I’m very happy with the product quality. Agent: That’s wonderful to hear!,Very Positive 🤩
+98,"Customer: I received the wrong address confirmation.
+Agent: Sorry, we’ll correct it immediately.
+Customer: Thanks.
+Agent: Corrected and confirmation sent.","Agent: Sorry, we’ll correct it immediately. Customer: I received the wrong address confirmation. Agent: Corrected and confirmation sent.",Very Negative 😡
+99,"Customer: The package I received was missing items.
+Agent: Apologies. I will send the missing items immediately.
+Customer: Thank you, I was worried.
+Agent: You should receive them in 3 days.","Customer: The package I received was missing items. Agent: Apologies. I will send the missing items immediately. Customer: Thank you, I was worried.",Very Negative 😡
+100,"Customer: The agent was rude.
+Agent: We apologize. This is not our standard. Can I assist you further?
+Customer: Thank you.
+Agent: We’ll make sure it doesn’t happen again.",Agent: We apologize. This is not our standard. Can I assist you further?Customer: Thank you. Agent: We’ll make sure it doesn’t happen again.,Very Negative 😡

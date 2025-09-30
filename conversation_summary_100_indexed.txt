@@ -1,0 +1,900 @@
+ID: 1
+Conversation:
+Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.
+Summary: The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 2
+Conversation:
+Customer: I want to upgrade my plan.
+Agent: I can help with that. Which plan would you like?
+Customer: The premium plan.
+Agent: Done! You have been upgraded.
+Summary: Customer: I want to upgrade my plan.Agent: I can help with that. Which plan would you like?Customer: The premium plan.
+Sentiment: Neutral 😐
+--------------------------------------------------
+ID: 3
+Conversation:
+Customer: I can’t log into my account. Keeps saying invalid password.
+Agent: Let’s reset your password. I’ll send the link to your email.
+Customer: Got it. Thanks!
+Agent: You should be able to log in now.
+Summary: Customer: I can’t log into my account. Keeps saying invalid password. Agent: Let’s reset your password. I’ll send the link to your email.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 4
+Conversation:
+Customer: The agent was rude.
+Agent: We apologize. This is not our standard. Can I assist you further?
+Customer: Thank you.
+Agent: We’ll make sure it doesn’t happen again.
+Summary: Agent: We apologize. This is not our standard. Can I assist you further?Customer: Thank you. Agent: We’ll make sure it doesn’t happen again.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 5
+Conversation:
+Customer: The package I received was missing items.
+Agent: Apologies. I will send the missing items immediately.
+Customer: Thank you, I was worried.
+Agent: You should receive them in 3 days.
+Summary: Customer: The package I received was missing items. Agent: Apologies. I will send the missing items immediately. Customer: Thank you, I was worried.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 6
+Conversation:
+Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.
+Summary: The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 7
+Conversation:
+Customer: I love the packaging of the product.
+Agent: Thank you! We’re glad you liked it.
+Customer: Makes unboxing fun.
+Agent: That’s our goal!
+Summary: Customer: I love the packaging of the product. Agent: Thank you! We’re glad you liked it. Customer: Makes unboxing fun.
+Sentiment: Very Positive 🤩
+--------------------------------------------------
+ID: 8
+Conversation:
+Customer: I want to upgrade my plan.
+Agent: I can help with that. Which plan would you like?
+Customer: The premium plan.
+Agent: Done! You have been upgraded.
+Summary: Customer: I want to upgrade my plan.Agent: I can help with that. Which plan would you like?Customer: The premium plan.
+Sentiment: Neutral 😐
+--------------------------------------------------
+ID: 9
+Conversation:
+Customer: I received the wrong address confirmation.
+Agent: Sorry, we’ll correct it immediately.
+Customer: Thanks.
+Agent: Corrected and confirmation sent.
+Summary: Agent: Sorry, we’ll correct it immediately. Customer: I received the wrong address confirmation. Agent: Corrected and confirmation sent.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 10
+Conversation:
+Customer: I need help tracking my package.
+Agent: Sure! Can you provide the order ID?
+Customer: Yes, it’s 12345.
+Agent: Your package will arrive tomorrow.
+Summary: Customer: I need help tracking my package. Agent: Sure! Can you provide the order ID?Customer: Yes, it's 12345.Agent: Your package will arrive tomorrow.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 11
+Conversation:
+Customer: The delivery was late again!
+Agent: I apologize. We are expediting it, and it should arrive tomorrow.
+Customer: Okay, thanks for fixing it quickly.
+Agent: You’re welcome!
+Summary: Customer: The delivery was late again!Agent: I apologize. We are expediting it, and it should arrive tomorrow.Customer: Okay, thanks for fixing it quickly.
+Sentiment: Positive 🙂
+--------------------------------------------------
+ID: 12
+Conversation:
+Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.
+Summary: The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 13
+Conversation:
+Customer: I can’t log into my account. Keeps saying invalid password.
+Agent: Let’s reset your password. I’ll send the link to your email.
+Customer: Got it. Thanks!
+Agent: You should be able to log in now.
+Summary: Customer: I can’t log into my account. Keeps saying invalid password. Agent: Let’s reset your password. I’ll send the link to your email.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 14
+Conversation:
+Customer: I received the wrong address confirmation.
+Agent: Sorry, we’ll correct it immediately.
+Customer: Thanks.
+Agent: Corrected and confirmation sent.
+Summary: Agent: Sorry, we’ll correct it immediately. Customer: I received the wrong address confirmation. Agent: Corrected and confirmation sent.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 15
+Conversation:
+Customer: The agent was rude.
+Agent: We apologize. This is not our standard. Can I assist you further?
+Customer: Thank you.
+Agent: We’ll make sure it doesn’t happen again.
+Summary: Agent: We apologize. This is not our standard. Can I assist you further?Customer: Thank you. Agent: We’ll make sure it doesn’t happen again.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 16
+Conversation:
+Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.
+Summary: Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 17
+Conversation:
+Customer: I received the wrong address confirmation.
+Agent: Sorry, we’ll correct it immediately.
+Customer: Thanks.
+Agent: Corrected and confirmation sent.
+Summary: Agent: Sorry, we’ll correct it immediately. Customer: I received the wrong address confirmation. Agent: Corrected and confirmation sent.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 18
+Conversation:
+Customer: I had a great experience with the support agent.
+Agent: Thank you! We’re happy to help.
+Customer: Made my day easier.
+Agent: That’s our goal!
+Summary: Customer: I had a great experience with the support agent.Agent: Thank you! We’re happy to help.
+Sentiment: Very Positive 🤩
+--------------------------------------------------
+ID: 19
+Conversation:
+Customer: The product quality was not what I expected.
+Agent: Sorry for the disappointment. We can offer a replacement or refund.
+Customer: I’ll go with the replacement.
+Agent: It will be sent out today.
+Summary: Customer: The product quality was not what I expected. Agent: Sorry for the disappointment. We can offer a replacement or refund. Customer: I'll go with the replacement.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 20
+Conversation:
+Customer: I had trouble with billing. I was charged twice.
+Agent: I apologize for the error. I’ve initiated a refund for the extra charge.
+Customer: Thank you, I appreciate your help.
+Agent: The refund will reflect in a few business days.
+Summary: Customer: I had trouble with billing. I was charged twice. Agent: I apologize for the error. I’ve initiated a refund for the extra charge.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 21
+Conversation:
+Customer: The agent was rude.
+Agent: We apologize. This is not our standard. Can I assist you further?
+Customer: Thank you.
+Agent: We’ll make sure it doesn’t happen again.
+Summary: Agent: We apologize. This is not our standard. Can I assist you further?Customer: Thank you. Agent: We’ll make sure it doesn’t happen again.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 22
+Conversation:
+Customer: Your website is slow.
+Agent: Sorry for the inconvenience. We’re optimizing performance.
+Customer: Hope it improves soon.
+Agent: It will, thank you for your patience.
+Summary: Agent: Sorry for the inconvenience. We’re optimizing performance. Customer: Hope it improves soon.Agent: It will, thank you for your patience.
+Sentiment: Negative 😕
+--------------------------------------------------
+ID: 23
+Conversation:
+Customer: I can’t log into my account. Keeps saying invalid password.
+Agent: Let’s reset your password. I’ll send the link to your email.
+Customer: Got it. Thanks!
+Agent: You should be able to log in now.
+Summary: Customer: I can’t log into my account. Keeps saying invalid password. Agent: Let’s reset your password. I’ll send the link to your email.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 24
+Conversation:
+Customer: I had trouble with billing. I was charged twice.
+Agent: I apologize for the error. I’ve initiated a refund for the extra charge.
+Customer: Thank you, I appreciate your help.
+Agent: The refund will reflect in a few business days.
+Summary: Customer: I had trouble with billing. I was charged twice. Agent: I apologize for the error. I’ve initiated a refund for the extra charge.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 25
+Conversation:
+Customer: I had a great experience with the support agent.
+Agent: Thank you! We’re happy to help.
+Customer: Made my day easier.
+Agent: That’s our goal!
+Summary: Customer: I had a great experience with the support agent.Agent: Thank you! We’re happy to help.
+Sentiment: Very Positive 🤩
+--------------------------------------------------
+ID: 26
+Conversation:
+Customer: I am frustrated because my order is incomplete.
+Agent: I’m sorry about that. I will arrange the missing items to be sent immediately.
+Customer: Thank you, that solves it.
+Agent: You’re welcome!
+Summary: Customer: I am frustrated because my order is incomplete. Agent: I’m sorry about that. I will arrange the missing items to be sent immediately.
+Sentiment: Neutral 😐
+--------------------------------------------------
+ID: 27
+Conversation:
+Customer: The product color doesn’t match the image online.
+Agent: Sorry about that. We can send a replacement.
+Customer: That would be helpful, thanks.
+Agent: Replacement will be shipped today.
+Summary: Agent: Sorry about that. We can send a replacement. Customer: The product color doesn't match the image online. Agent: Replacement will be shipped today.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 28
+Conversation:
+Customer: The product quality was not what I expected.
+Agent: Sorry for the disappointment. We can offer a replacement or refund.
+Customer: I’ll go with the replacement.
+Agent: It will be sent out today.
+Summary: Customer: The product quality was not what I expected. Agent: Sorry for the disappointment. We can offer a replacement or refund. Customer: I'll go with the replacement.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 29
+Conversation:
+Customer: I received an expired product.
+Agent: I apologize. We’ll send a fresh replacement immediately.
+Customer: Thanks, I appreciate it.
+Agent: You should get it within 2 days.
+Summary: Customer: I received an expired product.Agent: I apologize. We’ll send a fresh replacement immediately.Customer: Thanks, I appreciate it.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 30
+Conversation:
+Customer: I received an expired product.
+Agent: I apologize. We’ll send a fresh replacement immediately.
+Customer: Thanks, I appreciate it.
+Agent: You should get it within 2 days.
+Summary: Customer: I received an expired product.Agent: I apologize. We’ll send a fresh replacement immediately.Customer: Thanks, I appreciate it.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 31
+Conversation:
+Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.
+Summary: Customer: I have been waiting for my refund for 2 weeks. Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 32
+Conversation:
+Customer: The package I received was missing items.
+Agent: Apologies. I will send the missing items immediately.
+Customer: Thank you, I was worried.
+Agent: You should receive them in 3 days.
+Summary: Customer: The package I received was missing items. Agent: Apologies. I will send the missing items immediately. Customer: Thank you, I was worried.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 33
+Conversation:
+Customer: The billing page is confusing.
+Agent: We can walk you through it step by step.
+Customer: Thanks, that helped a lot.
+Agent: Glad to assist!
+Summary: Customer: The billing page is confusing. Agent: We can walk you through it step by step. Customer: Thanks, that helped a lot.
+Sentiment: Neutral 😐
+--------------------------------------------------
+ID: 34
+Conversation:
+Customer: I’m very happy with the product quality!
+Agent: That’s wonderful to hear!
+Customer: It exceeded my expectations.
+Agent: We’re glad you enjoyed it!
+Summary: Customer: It exceeded my expectations. Customer: I’m very happy with the product quality. Agent: That’s wonderful to hear!
+Sentiment: Very Positive 🤩
+--------------------------------------------------
+ID: 35
+Conversation:
+Customer: The agent was rude.
+Agent: We apologize. This is not our standard. Can I assist you further?
+Customer: Thank you.
+Agent: We’ll make sure it doesn’t happen again.
+Summary: Agent: We apologize. This is not our standard. Can I assist you further?Customer: Thank you. Agent: We’ll make sure it doesn’t happen again.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 36
+Conversation:
+Customer: I got the wrong size for my order.
+Agent: Apologies. We can replace it with the correct size.
+Customer: Great, thank you.
+Agent: The correct size will be sent today.
+Summary: Customer: I got the wrong size for my order. Agent: We can replace it with the correct size. Customer: Great, thank you.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 37
+Conversation:
+Customer: The agent was rude.
+Agent: We apologize. This is not our standard. Can I assist you further?
+Customer: Thank you.
+Agent: We’ll make sure it doesn’t happen again.
+Summary: Agent: We apologize. This is not our standard. Can I assist you further?Customer: Thank you. Agent: We’ll make sure it doesn’t happen again.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 38
+Conversation:
+Customer: I can’t log into my account. Keeps saying invalid password.
+Agent: Let’s reset your password. I’ll send the link to your email.
+Customer: Got it. Thanks!
+Agent: You should be able to log in now.
+Summary: Customer: I can’t log into my account. Keeps saying invalid password. Agent: Let’s reset your password. I’ll send the link to your email.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 39
+Conversation:
+Customer: Customer support took too long to respond.
+Agent: Sorry for the delay. We will make sure this doesn’t happen again.
+Customer: Okay, thanks for acknowledging.
+Agent: We appreciate your patience.
+Summary: Customer: Customer support took too long to respond. Agent: Sorry for the delay. We will make sure this doesn't happen again.
+Sentiment: Neutral 😐
+--------------------------------------------------
+ID: 40
+Conversation:
+Customer: My account got blocked unexpectedly.
+Agent: Sorry! We’ll unlock it immediately.
+Customer: Thanks a lot.
+Agent: You can now access your account.
+Summary: Customer: My account got blocked unexpectedly. Agent: Sorry! We’ll unlock it immediately. Customer: Thanks a lot.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 41
+Conversation:
+Customer: The package I received was missing items.
+Agent: Apologies. I will send the missing items immediately.
+Customer: Thank you, I was worried.
+Agent: You should receive them in 3 days.
+Summary: Customer: The package I received was missing items. Agent: Apologies. I will send the missing items immediately. Customer: Thank you, I was worried.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 42
+Conversation:
+Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.
+Summary: Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 43
+Conversation:
+Customer: The product color doesn’t match the image online.
+Agent: Sorry about that. We can send a replacement.
+Customer: That would be helpful, thanks.
+Agent: Replacement will be shipped today.
+Summary: Agent: Sorry about that. We can send a replacement. Customer: The product color doesn't match the image online. Agent: Replacement will be shipped today.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 44
+Conversation:
+Customer: I got the wrong size for my order.
+Agent: Apologies. We can replace it with the correct size.
+Customer: Great, thank you.
+Agent: The correct size will be sent today.
+Summary: Customer: I got the wrong size for my order. Agent: We can replace it with the correct size. Customer: Great, thank you.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 45
+Conversation:
+Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.
+Summary: The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 46
+Conversation:
+Customer: The agent was rude.
+Agent: We apologize. This is not our standard. Can I assist you further?
+Customer: Thank you.
+Agent: We’ll make sure it doesn’t happen again.
+Summary: Agent: We apologize. This is not our standard. Can I assist you further?Customer: Thank you. Agent: We’ll make sure it doesn’t happen again.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 47
+Conversation:
+Customer: The billing page is confusing.
+Agent: We can walk you through it step by step.
+Customer: Thanks, that helped a lot.
+Agent: Glad to assist!
+Summary: Customer: The billing page is confusing. Agent: We can walk you through it step by step. Customer: Thanks, that helped a lot.
+Sentiment: Neutral 😐
+--------------------------------------------------
+ID: 48
+Conversation:
+Customer: I want to upgrade my plan.
+Agent: I can help with that. Which plan would you like?
+Customer: The premium plan.
+Agent: Done! You have been upgraded.
+Summary: Customer: I want to upgrade my plan.Agent: I can help with that. Which plan would you like?Customer: The premium plan.
+Sentiment: Neutral 😐
+--------------------------------------------------
+ID: 49
+Conversation:
+Customer: I had a great experience with the support agent.
+Agent: Thank you! We’re happy to help.
+Customer: Made my day easier.
+Agent: That’s our goal!
+Summary: Customer: I had a great experience with the support agent.Agent: Thank you! We’re happy to help.
+Sentiment: Very Positive 🤩
+--------------------------------------------------
+ID: 50
+Conversation:
+Customer: My account got blocked unexpectedly.
+Agent: Sorry! We’ll unlock it immediately.
+Customer: Thanks a lot.
+Agent: You can now access your account.
+Summary: Customer: My account got blocked unexpectedly. Agent: Sorry! We’ll unlock it immediately. Customer: Thanks a lot.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 51
+Conversation:
+Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!
+Summary: Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback. Customer: The app feels much smoother now.
+Sentiment: Very Positive 🤩
+--------------------------------------------------
+ID: 52
+Conversation:
+Customer: I love the packaging of the product.
+Agent: Thank you! We’re glad you liked it.
+Customer: Makes unboxing fun.
+Agent: That’s our goal!
+Summary: Customer: I love the packaging of the product. Agent: Thank you! We’re glad you liked it. Customer: Makes unboxing fun.
+Sentiment: Very Positive 🤩
+--------------------------------------------------
+ID: 53
+Conversation:
+Customer: The package I received was missing items.
+Agent: Apologies. I will send the missing items immediately.
+Customer: Thank you, I was worried.
+Agent: You should receive them in 3 days.
+Summary: Customer: The package I received was missing items. Agent: Apologies. I will send the missing items immediately. Customer: Thank you, I was worried.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 54
+Conversation:
+Customer: My account got blocked unexpectedly.
+Agent: Sorry! We’ll unlock it immediately.
+Customer: Thanks a lot.
+Agent: You can now access your account.
+Summary: Customer: My account got blocked unexpectedly. Agent: Sorry! We’ll unlock it immediately. Customer: Thanks a lot.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 55
+Conversation:
+Customer: The product quality was not what I expected.
+Agent: Sorry for the disappointment. We can offer a replacement or refund.
+Customer: I’ll go with the replacement.
+Agent: It will be sent out today.
+Summary: Customer: The product quality was not what I expected. Agent: Sorry for the disappointment. We can offer a replacement or refund. Customer: I'll go with the replacement.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 56
+Conversation:
+Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.
+Summary: Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 57
+Conversation:
+Customer: Customer support took too long to respond.
+Agent: Sorry for the delay. We will make sure this doesn’t happen again.
+Customer: Okay, thanks for acknowledging.
+Agent: We appreciate your patience.
+Summary: Customer: Customer support took too long to respond. Agent: Sorry for the delay. We will make sure this doesn't happen again.
+Sentiment: Neutral 😐
+--------------------------------------------------
+ID: 58
+Conversation:
+Customer: I had a great experience with the support agent.
+Agent: Thank you! We’re happy to help.
+Customer: Made my day easier.
+Agent: That’s our goal!
+Summary: Customer: I had a great experience with the support agent.Agent: Thank you! We’re happy to help.
+Sentiment: Very Positive 🤩
+--------------------------------------------------
+ID: 59
+Conversation:
+Customer: The agent was rude.
+Agent: We apologize. This is not our standard. Can I assist you further?
+Customer: Thank you.
+Agent: We’ll make sure it doesn’t happen again.
+Summary: Agent: We apologize. This is not our standard. Can I assist you further?Customer: Thank you. Agent: We’ll make sure it doesn’t happen again.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 60
+Conversation:
+Customer: The package I received was missing items.
+Agent: Apologies. I will send the missing items immediately.
+Customer: Thank you, I was worried.
+Agent: You should receive them in 3 days.
+Summary: Customer: The package I received was missing items. Agent: Apologies. I will send the missing items immediately. Customer: Thank you, I was worried.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 61
+Conversation:
+Customer: I need to cancel my subscription.
+Agent: Sure, I can do that for you.
+Customer: Thank you.
+Agent: Your subscription is now canceled.
+Summary: Customer: I need to cancel my subscription. Agent: Sure, I can do that for you. Customer: Thank you.Agent: Your subscription is now canceled.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 62
+Conversation:
+Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.
+Summary: Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 63
+Conversation:
+Customer: I’m very happy with the product quality!
+Agent: That’s wonderful to hear!
+Customer: It exceeded my expectations.
+Agent: We’re glad you enjoyed it!
+Summary: Customer: It exceeded my expectations. Customer: I’m very happy with the product quality. Agent: That’s wonderful to hear!
+Sentiment: Very Positive 🤩
+--------------------------------------------------
+ID: 64
+Conversation:
+Customer: The billing page is confusing.
+Agent: We can walk you through it step by step.
+Customer: Thanks, that helped a lot.
+Agent: Glad to assist!
+Summary: Customer: The billing page is confusing. Agent: We can walk you through it step by step. Customer: Thanks, that helped a lot.
+Sentiment: Neutral 😐
+--------------------------------------------------
+ID: 65
+Conversation:
+Customer: I got the wrong size for my order.
+Agent: Apologies. We can replace it with the correct size.
+Customer: Great, thank you.
+Agent: The correct size will be sent today.
+Summary: Customer: I got the wrong size for my order. Agent: We can replace it with the correct size. Customer: Great, thank you.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 66
+Conversation:
+Customer: I got the wrong size for my order.
+Agent: Apologies. We can replace it with the correct size.
+Customer: Great, thank you.
+Agent: The correct size will be sent today.
+Summary: Customer: I got the wrong size for my order. Agent: We can replace it with the correct size. Customer: Great, thank you.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 67
+Conversation:
+Customer: Your website is slow.
+Agent: Sorry for the inconvenience. We’re optimizing performance.
+Customer: Hope it improves soon.
+Agent: It will, thank you for your patience.
+Summary: Agent: Sorry for the inconvenience. We’re optimizing performance. Customer: Hope it improves soon.Agent: It will, thank you for your patience.
+Sentiment: Negative 😕
+--------------------------------------------------
+ID: 68
+Conversation:
+Customer: The app keeps logging me out.
+Agent: Sorry for the trouble. Try clearing cache and re-login.
+Customer: That worked, thanks!
+Agent: Glad it helped!
+Summary: Customer: The app keeps logging me out. Try clearing cache and re-login. Customer: That worked, thanks!
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 69
+Conversation:
+Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.
+Summary: Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 70
+Conversation:
+Customer: I had a great experience with the support agent.
+Agent: Thank you! We’re happy to help.
+Customer: Made my day easier.
+Agent: That’s our goal!
+Summary: Customer: I had a great experience with the support agent.Agent: Thank you! We’re happy to help.
+Sentiment: Very Positive 🤩
+--------------------------------------------------
+ID: 71
+Conversation:
+Customer: The product quality was not what I expected.
+Agent: Sorry for the disappointment. We can offer a replacement or refund.
+Customer: I’ll go with the replacement.
+Agent: It will be sent out today.
+Summary: Customer: The product quality was not what I expected. Agent: Sorry for the disappointment. We can offer a replacement or refund. Customer: I'll go with the replacement.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 72
+Conversation:
+Customer: The package I received was missing items.
+Agent: Apologies. I will send the missing items immediately.
+Customer: Thank you, I was worried.
+Agent: You should receive them in 3 days.
+Summary: Customer: The package I received was missing items. Agent: Apologies. I will send the missing items immediately. Customer: Thank you, I was worried.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 73
+Conversation:
+Customer: The billing page is confusing.
+Agent: We can walk you through it step by step.
+Customer: Thanks, that helped a lot.
+Agent: Glad to assist!
+Summary: Customer: The billing page is confusing. Agent: We can walk you through it step by step. Customer: Thanks, that helped a lot.
+Sentiment: Neutral 😐
+--------------------------------------------------
+ID: 74
+Conversation:
+Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.
+Summary: Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 75
+Conversation:
+Customer: The agent was rude.
+Agent: We apologize. This is not our standard. Can I assist you further?
+Customer: Thank you.
+Agent: We’ll make sure it doesn’t happen again.
+Summary: Agent: We apologize. This is not our standard. Can I assist you further?Customer: Thank you. Agent: We’ll make sure it doesn’t happen again.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 76
+Conversation:
+Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!
+Summary: Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback. Customer: The app feels much smoother now.
+Sentiment: Very Positive 🤩
+--------------------------------------------------
+ID: 77
+Conversation:
+Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.
+Summary: Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 78
+Conversation:
+Customer: I am frustrated because my order is incomplete.
+Agent: I’m sorry about that. I will arrange the missing items to be sent immediately.
+Customer: Thank you, that solves it.
+Agent: You’re welcome!
+Summary: Customer: I am frustrated because my order is incomplete. Agent: I’m sorry about that. I will arrange the missing items to be sent immediately.
+Sentiment: Neutral 😐
+--------------------------------------------------
+ID: 79
+Conversation:
+Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.
+Summary: The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 80
+Conversation:
+Customer: I love the quick response from your support team.
+Agent: Thank you! We strive to resolve issues promptly.
+Customer: Makes me trust your company more.
+Agent: We’re glad to hear that!
+Summary: Customer: I love the quick response from your support team. We strive to resolve issues promptly. Agent: We’re glad to hear that!
+Sentiment: Very Positive 🤩
+--------------------------------------------------
+ID: 81
+Conversation:
+Customer: I want to upgrade my plan.
+Agent: I can help with that. Which plan would you like?
+Customer: The premium plan.
+Agent: Done! You have been upgraded.
+Summary: Customer: I want to upgrade my plan.Agent: I can help with that. Which plan would you like?Customer: The premium plan.
+Sentiment: Neutral 😐
+--------------------------------------------------
+ID: 82
+Conversation:
+Customer: The tracking number doesn’t work.
+Agent: Apologies. I’ll provide the correct tracking number.
+Customer: Got it. Thanks.
+Agent: You’re welcome!
+Summary: Customer: The tracking number doesn't work. Agent: Apologies. I’ll provide the correct tracking number. Customer: Got it. Thanks.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 83
+Conversation:
+Customer: The product color doesn’t match the image online.
+Agent: Sorry about that. We can send a replacement.
+Customer: That would be helpful, thanks.
+Agent: Replacement will be shipped today.
+Summary: Agent: Sorry about that. We can send a replacement. Customer: The product color doesn't match the image online. Agent: Replacement will be shipped today.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 84
+Conversation:
+Customer: The delivery was late again!
+Agent: I apologize. We are expediting it, and it should arrive tomorrow.
+Customer: Okay, thanks for fixing it quickly.
+Agent: You’re welcome!
+Summary: Customer: The delivery was late again!Agent: I apologize. We are expediting it, and it should arrive tomorrow.Customer: Okay, thanks for fixing it quickly.
+Sentiment: Positive 🙂
+--------------------------------------------------
+ID: 85
+Conversation:
+Customer: The product quality was not what I expected.
+Agent: Sorry for the disappointment. We can offer a replacement or refund.
+Customer: I’ll go with the replacement.
+Agent: It will be sent out today.
+Summary: Customer: The product quality was not what I expected. Agent: Sorry for the disappointment. We can offer a replacement or refund. Customer: I'll go with the replacement.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 86
+Conversation:
+Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.
+Summary: Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 87
+Conversation:
+Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.
+Summary: Customer: I have been waiting for my refund for 2 weeks. Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 88
+Conversation:
+Customer: I need to cancel my subscription.
+Agent: Sure, I can do that for you.
+Customer: Thank you.
+Agent: Your subscription is now canceled.
+Summary: Customer: I need to cancel my subscription. Agent: Sure, I can do that for you. Customer: Thank you.Agent: Your subscription is now canceled.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 89
+Conversation:
+Customer: My account got blocked unexpectedly.
+Agent: Sorry! We’ll unlock it immediately.
+Customer: Thanks a lot.
+Agent: You can now access your account.
+Summary: Customer: My account got blocked unexpectedly. Agent: Sorry! We’ll unlock it immediately. Customer: Thanks a lot.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 90
+Conversation:
+Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.
+Summary: Customer: I have been waiting for my refund for 2 weeks. Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 91
+Conversation:
+Customer: I need help tracking my package.
+Agent: Sure! Can you provide the order ID?
+Customer: Yes, it’s 12345.
+Agent: Your package will arrive tomorrow.
+Summary: Customer: I need help tracking my package. Agent: Sure! Can you provide the order ID?Customer: Yes, it's 12345.Agent: Your package will arrive tomorrow.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 92
+Conversation:
+Customer: The product color doesn’t match the image online.
+Agent: Sorry about that. We can send a replacement.
+Customer: That would be helpful, thanks.
+Agent: Replacement will be shipped today.
+Summary: Agent: Sorry about that. We can send a replacement. Customer: The product color doesn't match the image online. Agent: Replacement will be shipped today.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 93
+Conversation:
+Customer: I received the wrong address confirmation.
+Agent: Sorry, we’ll correct it immediately.
+Customer: Thanks.
+Agent: Corrected and confirmation sent.
+Summary: Agent: Sorry, we’ll correct it immediately. Customer: I received the wrong address confirmation. Agent: Corrected and confirmation sent.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 94
+Conversation:
+Customer: The package I received was missing items.
+Agent: Apologies. I will send the missing items immediately.
+Customer: Thank you, I was worried.
+Agent: You should receive them in 3 days.
+Summary: Customer: The package I received was missing items. Agent: Apologies. I will send the missing items immediately. Customer: Thank you, I was worried.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 95
+Conversation:
+Customer: The product quality was not what I expected.
+Agent: Sorry for the disappointment. We can offer a replacement or refund.
+Customer: I’ll go with the replacement.
+Agent: It will be sent out today.
+Summary: Customer: The product quality was not what I expected. Agent: Sorry for the disappointment. We can offer a replacement or refund. Customer: I'll go with the replacement.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 96
+Conversation:
+Customer: Customer support took too long to respond.
+Agent: Sorry for the delay. We will make sure this doesn’t happen again.
+Customer: Okay, thanks for acknowledging.
+Agent: We appreciate your patience.
+Summary: Customer: Customer support took too long to respond. Agent: Sorry for the delay. We will make sure this doesn't happen again.
+Sentiment: Neutral 😐
+--------------------------------------------------
+ID: 97
+Conversation:
+Customer: The agent was rude.
+Agent: We apologize. This is not our standard. Can I assist you further?
+Customer: Thank you.
+Agent: We’ll make sure it doesn’t happen again.
+Summary: Agent: We apologize. This is not our standard. Can I assist you further?Customer: Thank you. Agent: We’ll make sure it doesn’t happen again.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 98
+Conversation:
+Customer: The product quality was not what I expected.
+Agent: Sorry for the disappointment. We can offer a replacement or refund.
+Customer: I’ll go with the replacement.
+Agent: It will be sent out today.
+Summary: Customer: The product quality was not what I expected. Agent: Sorry for the disappointment. We can offer a replacement or refund. Customer: I'll go with the replacement.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 99
+Conversation:
+Customer: I had trouble with billing. I was charged twice.
+Agent: I apologize for the error. I’ve initiated a refund for the extra charge.
+Customer: Thank you, I appreciate your help.
+Agent: The refund will reflect in a few business days.
+Summary: Customer: I had trouble with billing. I was charged twice. Agent: I apologize for the error. I’ve initiated a refund for the extra charge.
+Sentiment: Very Negative 😡
+--------------------------------------------------
+ID: 100
+Conversation:
+Customer: I had trouble with billing. I was charged twice.
+Agent: I apologize for the error. I’ve initiated a refund for the extra charge.
+Customer: Thank you, I appreciate your help.
+Agent: The refund will reflect in a few business days.
+Summary: Customer: I had trouble with billing. I was charged twice. Agent: I apologize for the error. I’ve initiated a refund for the extra charge.
+Sentiment: Very Negative 😡
+--------------------------------------------------

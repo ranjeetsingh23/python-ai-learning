@@ -1,0 +1,401 @@
+conversation,summary,sentiment
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!",Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback.,Very Positive 🤩
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!",Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback.,Very Positive 🤩
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!",Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback.,Very Positive 🤩
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!",Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback.,Very Positive 🤩
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!",Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback.,Very Positive 🤩
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!",Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback.,Very Positive 🤩
+"Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!",Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback.,Very Positive 🤩
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!",Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback.,Very Positive 🤩
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!",Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback.,Very Positive 🤩
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!",Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback.,Very Positive 🤩
+"Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!",Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback.,Very Positive 🤩
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: I love the new features in the latest update!
+Agent: That’s wonderful to hear! We appreciate your feedback.
+Customer: The app feels much smoother now.
+Agent: We’re glad it’s working well for you!",Customer: I love the new features in the latest update! Agent: That’s wonderful to hear! We appreciate your feedback.,Very Positive 🤩
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: Your app keeps crashing whenever I try to place an order.
+Agent: I’m sorry about that. Have you tried reinstalling the app?
+Customer: Yes, but the problem persists.
+Agent: We are escalating this issue to our technical team immediately.","Customer: Your app keeps crashing whenever I try to place an order. Agent: I’m sorry about that. Have you tried reinstalling the app?Customer: Yes, but the problem persists.",Very Negative 😡
+"Customer: I have been waiting for my refund for 2 weeks. This is really frustrating.
+Agent: I understand your concern. Let me check the status.
+Agent: The refund has been processed today and should reflect in your account within 2-3 business days.
+Customer: Okay, I’ll wait, but this delay has been disappointing.",Customer: I have been waiting for my refund for 2 weeks. This is really frustrating. Agent: I understand your concern. Let me check the status.,Very Negative 😡
+"Customer: I was charged twice for my order. Can you fix this?
+Agent: Sorry for the error. I’ve initiated a refund for the extra charge.
+Customer: That’s great, thanks for the quick help!
+Agent: You’re welcome! The refund will reflect in a few days.",Customer: I was charged twice for my order. Can you fix this?Agent: Sorry for the error. I’ve initiated a refund for the extra charge.,Very Positive 🤩
+"Customer: The product I received is damaged and not working.
+Agent: I apologize for the inconvenience. We can replace it immediately.
+Customer: Thank you, I appreciate the quick response.
+Agent: You should receive the replacement within 5 business days.",The product I received is damaged and not working. We can replace it immediately. You should receive the replacement within 5 business days.,Very Negative 😡
